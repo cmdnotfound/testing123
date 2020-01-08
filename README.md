@@ -1,10 +1,48 @@
-## Testing Github pages
+## White Label Wallet
 
-Seeing what's up with the markdown
+An open source project that providers a framework for crypto currencies to create and manage wallets.
 
-### Markdown
+### Feature Breakdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Manage multiple wallets per currency
+- Users can manage multiple wallet for each currency
+- A 24 words deterministic pass phrase will be used to generate the addresses on the wallet
+
+#### Add addresses to a wallet
+- By default a wallet will only have one address unless the users enables the multi address feature
+- When the multi address feature for a wallet is enabled the user will be able to add addresses to the wallet
+
+#### Ability to review transactions
+- Detailed graphs showing wallet activity
+- List of all transactions 
+- Multi address wallet will also display the address name in the transaction history.
+
+#### Receive funds
+
+#### Send funds
+
+#### Manage contacts
+
+#### Manage settings
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ```markdown
 Syntax highlighted code block
